@@ -1,4 +1,4 @@
-# Head_First_Design_Pattern_Cpp
+# Head_First_Design_Patterns_Cpp
  Gradually improve
 
 * CompositePattern
